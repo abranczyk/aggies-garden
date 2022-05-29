@@ -1,4 +1,4 @@
-baseURL = 'https://abranczyk.github.io/aggies-garden'
+baseURL = 'https://abranczyk.github.io/aggies-garden/'
 languageCode = 'en-us'
 title = "Aggie's Garden"
 theme = "ananke"

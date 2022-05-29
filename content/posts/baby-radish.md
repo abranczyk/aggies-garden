@@ -6,10 +6,10 @@ draft: false
 
 First harvest from the ground.
 
-A radish, four weeks after planting from seed. 
+A radish, four weeks after planting from seed.
 
 I think the radishes need some more time.
 
 It tasted good though.
 
-![baby radish](/IMG_1375.jpg)
+![baby radish](/2022-05-28-baby-radish.jpg)

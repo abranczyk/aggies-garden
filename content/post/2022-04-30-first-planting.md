@@ -4,8 +4,8 @@ date: 2022-04-30T19:46:50-04:00
 draft: false
 ---
 
-Planted radishes, two kinds of lettuce, spinach, and carrots from seed. 
+Planted radishes, two kinds of lettuce, spinach, and carrots from seed.
 
-Planted white and yellow onions from sets. 
+Planted white and yellow onions from sets.
 
-![baby radish](/2022-04-30-first-planting.jpg)
+![first planting](/2022-04-30-first-planting.jpg)

@@ -10,6 +10,6 @@ A radish, four weeks after planting from seed.
 
 I think the radishes need some more time.
 
-It tasted good though.
+It tasted good though!
 
 ![baby radish](/2022-05-28-baby-radish.jpg)

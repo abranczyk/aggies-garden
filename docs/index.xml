@@ -9,14 +9,23 @@
     <lastBuildDate>Sat, 28 May 2022 19:46:50 -0400</lastBuildDate><atom:link href="https://abranczyk.github.io/aggies-garden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baby Radish</title>
-      <link>https://abranczyk.github.io/aggies-garden/posts/baby-radish/</link>
+      <link>https://abranczyk.github.io/aggies-garden/posts/2022-05-28-baby-radish/</link>
       <pubDate>Sat, 28 May 2022 19:46:50 -0400</pubDate>
       
-      <guid>https://abranczyk.github.io/aggies-garden/posts/baby-radish/</guid>
+      <guid>https://abranczyk.github.io/aggies-garden/posts/2022-05-28-baby-radish/</guid>
       <description>First harvest from the ground.
 A radish, four weeks after planting from seed.
 I think the radishes need some more time.
 It tasted good though.</description>
+    </item>
+    
+    <item>
+      <title>Bean sprouts</title>
+      <link>https://abranczyk.github.io/aggies-garden/posts/2022-05-25-bean-sprouts/</link>
+      <pubDate>Wed, 25 May 2022 19:46:50 -0400</pubDate>
+      
+      <guid>https://abranczyk.github.io/aggies-garden/posts/2022-05-25-bean-sprouts/</guid>
+      <description>You can actually see the bean turning into a sprout!</description>
     </item>
     
   </channel>

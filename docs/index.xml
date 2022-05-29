@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aggie&#39;s Garden</title>
+    <link>https://abranczyk.github.io/aggies-garden/</link>
+    <description>Recent content on Aggie&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 May 2022 19:46:50 -0400</lastBuildDate><atom:link href="https://abranczyk.github.io/aggies-garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baby Radish</title>
+      <link>https://abranczyk.github.io/aggies-garden/posts/baby-radish/</link>
+      <pubDate>Sat, 28 May 2022 19:46:50 -0400</pubDate>
+      
+      <guid>https://abranczyk.github.io/aggies-garden/posts/baby-radish/</guid>
+      <description>First harvest from the ground: a radish 4 weeks after planting the seed.
+I think the radishes need some more time.
+It tasted good though.</description>
+    </item>
+    
+  </channel>
+</rss>

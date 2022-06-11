@@ -6,6 +6,6 @@ draft: false
 
 Three and a half weeks after first planting.
 
-The difference between the two radish crops (bottom-left), which are two weeks apart, is dramatic.
+The difference between the two radish crops (bottom-left), which are two weeks apart, is dramatic!
 
 ![after the rain](/2022-05-25-after-the-rain.jpg)

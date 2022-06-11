@@ -2,6 +2,7 @@
 title: "Baby Radish"
 date: 2022-05-28T19:46:50-04:00
 draft: false
+featured_image: "/2022-05-28-baby-radish.jpg"
 ---
 
 First harvest from the ground.

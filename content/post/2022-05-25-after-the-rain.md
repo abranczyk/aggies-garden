@@ -2,6 +2,7 @@
 title: "After the rain"
 date: 2022-05-25T19:46:40-04:00
 draft: false
+featured_image: "/2022-05-25-after-the-rain.jpg"
 ---
 
 Three and a half weeks after first planting.

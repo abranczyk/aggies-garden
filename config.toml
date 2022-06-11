@@ -4,3 +4,13 @@ title = "Aggie's Garden"
 theme = "ananke"
 publishDir = "docs"
 canonifyURLs = true
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 100

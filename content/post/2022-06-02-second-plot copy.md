@@ -1,0 +1,9 @@
+---
+title: "Radishes"
+date: 2022-06-02T21:05:50-04:00
+draft: false
+---
+
+Radishes at five weeks. Not much luck...all cracked and nibbled.
+
+![radishes at five weeks](/2022-06-02-radishes.jpg)

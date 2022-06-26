@@ -7,4 +7,4 @@ featured_image: "/2022-06-23-swiss-chard.jpg"
 
 Swiss chard ready to be sauted.
 
-![spinach](/2022-06-23-swiss-chard.jpg)
+![swiss-chard](/2022-06-23-swiss-chard.jpg)

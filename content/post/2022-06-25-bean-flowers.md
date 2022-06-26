@@ -7,4 +7,4 @@ featured_image: "/2022-06-25-bean-flowers.jpg"
 
 I've never seen bean flowers before!
 
-![spinach](/2022-06-25-bean-flowers.jpg)
+![bean-flowers](/2022-06-25-bean-flowers.jpg)

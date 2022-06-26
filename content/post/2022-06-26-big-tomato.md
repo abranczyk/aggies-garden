@@ -1,6 +1,6 @@
 ---
 title: "Big tomato"
-date: 2022-06-25T15:04:50-04:00
+date: 2022-06-26T15:04:50-04:00
 draft: false
 featured_image: "/2022-06-26-big-tomato.jpg"
 ---

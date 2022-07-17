@@ -1,0 +1,10 @@
+---
+title: "New frame"
+date: 2022-07-16T10:13:50-04:00
+draft: false
+featured_image: "/2022-07-17-aggies-market.jpg"
+---
+
+Any recipe ideas?
+
+![new-frame](/2022-07-17-aggies-market.jpg)

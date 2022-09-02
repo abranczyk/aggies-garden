@@ -7,4 +7,4 @@ featured_image: "/2022-07-17-aggies-market.jpg"
 
 Any recipe ideas?
 
-![new-frame](/2022-07-17-aggies-market.jpg)
+![aggies-market](/2022-07-17-aggies-market.jpg)
